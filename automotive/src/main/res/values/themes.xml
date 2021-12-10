@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.MyJNI" parent="Theme.AppCompat" />
+</resources>
